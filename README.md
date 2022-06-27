@@ -1,52 +1,47 @@
-# Project Name
-> Outline a brief description of your project.
+### <font color='cyan'> Sections present in the notebook <font>
+I. Prerequisites 
+    
+    I.1. Importing modules, load data
+    I.2. Cache necessary information about the data up front
 
+II. Data understanding and cleaning
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+    II.1. Addressing missing data
+        II.1.1. Let's get a feel for the missing data in the df first
+        II.1.2. Special cases
+    II.2. Format Conversion for certain columns
+    II.3. Quasi-Constant Variables
+        II.3.1 Numeric
+        II.3.2. For all other columns
+        II.3.3. Special cases
+    II.4. Object type columns
+    II.5. Deriving new columns 
+    II.6. Data imputation
+    II.7. Correlation
+    II.8. Outlier Detection
+        II.7.1 Box Plots
+        II.7.2. IQR Analysis
+    
+III. Data Analysis:
 
-<!-- You can include any other section that is pertinent to your problem -->
-
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
-## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+    III.1. Univariate Analysis
+        III.1.1. Box Plots contd.
+        III.1.2. Probability Distribution 
+    III.2. Bivariate analysis
+        III.2.1. Categorical columns with a keen focus on loan_status
+            III.2.1.1. Grade
+            III.2.1.2. Home Ownership
+            III.2.1.3. Verification Status
+            III.2.1.4. Purpose
+            III.2.1.5. Employee Experience
+            III.2.1.6. Annual Income
+            III.2.1.7. Funded Amount
+            III.2.1.8. Rate of Interest
+            III.2.1.9. Public records
+            III.2.1.10. Number of inquiries in the last 6 months
+            III.2.1.11. State Address
+            III.2.1.12. Loan Term
+            III.2.1.13. Delta_bins
+        III.2.1. In between rest of the columns(minus loan_status)
+    
+IV. Conclusion
