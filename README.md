@@ -44,5 +44,5 @@ III. Data Analysis:
             III.2.1.13. Delta_bins
         III.2.1. In between rest of the columns(minus loan_status)
     
-IV. Conclusion
+IV. Conclusion<br>
 	Mentioned the driver variables identified in the notebook
