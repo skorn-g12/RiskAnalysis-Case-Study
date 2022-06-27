@@ -1,4 +1,4 @@
-### <font color='cyan'> Sections in this notebook: <font>
+### <font color='cyan'> Sections present in the notebook <font>
 I. Prerequisites 
     
     I.1. Importing modules, load data
