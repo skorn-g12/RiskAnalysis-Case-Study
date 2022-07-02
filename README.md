@@ -45,6 +45,8 @@ III. Data Analysis:
         III.2.1. In between rest of the columns(minus loan_status)
     
 IV. Conclusion<br>
+
 	Mentioned the driver variables identified with our analysis. (Present in the last section of the notebook)<br>
-V. Recommendations
-   From our analysis we present our recommendations
+V. Recommendations<br>
+
+    From our analysis we present our recommendations
